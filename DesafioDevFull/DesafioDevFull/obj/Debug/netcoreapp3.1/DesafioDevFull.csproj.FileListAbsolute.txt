@@ -1,0 +1,48 @@
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\DesafioDevFull.exe
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\DesafioDevFull.deps.json
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\DesafioDevFull.runtimeconfig.json
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\DesafioDevFull.runtimeconfig.dev.json
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\DesafioDevFull.dll
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\DesafioDevFull.pdb
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.csprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.RazorTargetAssemblyInfo.cache
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\staticwebassets\DesafioDevFull.StaticWebAssets.Manifest.cache
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\staticwebassets\DesafioDevFull.StaticWebAssets.xml
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.dll
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.pdb
+C:\Users\Hugo\source\repos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.genruntimeconfig.cache
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\UI\desafio-dev-full\angular.json
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\UI\desafio-dev-full\e2e\tsconfig.json
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\UI\desafio-dev-full\package-lock.json
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\UI\desafio-dev-full\package.json
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\UI\desafio-dev-full\tsconfig.app.json
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\UI\desafio-dev-full\tsconfig.json
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\UI\desafio-dev-full\tsconfig.spec.json
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\UI\desafio-dev-full\tslint.json
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\DesafioDevFull.exe
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\DesafioDevFull.deps.json
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\DesafioDevFull.runtimeconfig.json
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\DesafioDevFull.runtimeconfig.dev.json
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\DesafioDevFull.dll
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\bin\Debug\netcoreapp3.1\DesafioDevFull.pdb
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.csprojAssemblyReference.cache
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.AssemblyInfoInputs.cache
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.AssemblyInfo.cs
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.csproj.CoreCompileInputs.cache
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.MvcApplicationPartsAssemblyInfo.cache
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.RazorTargetAssemblyInfo.cache
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\staticwebassets\DesafioDevFull.StaticWebAssets.Manifest.cache
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\staticwebassets\DesafioDevFull.StaticWebAssets.xml
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.dll
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.pdb
+C:\Processo seletivos\DesafioDevFull\DesafioDevFull\obj\Debug\netcoreapp3.1\DesafioDevFull.genruntimeconfig.cache
